@@ -1,6 +1,6 @@
 # taiyakimod
 KUN50人クラフト応募用MOD
-
+/*
  *    MCreator note:
  *
  *    If you lock base mod element files, you can edit this file and the proxy files
